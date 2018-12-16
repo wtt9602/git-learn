@@ -6,3 +6,4 @@ hello GreatWall
 local line
 remote line
 writen by dev branch
+writen by master branch
